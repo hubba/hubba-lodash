@@ -1,0 +1,19 @@
+{
+  "name": "hubba-lodash",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hubba/hubba-lodash",
+  "authors": [
+    "Michael Teixeira <mteixeira@hubba.com>"
+  ],
+  "description": "countBy,sortBy",
+  "main": "lodash.custom.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
